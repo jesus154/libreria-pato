@@ -1,0 +1,50 @@
+body{
+	background: #6d2c7d;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+.picture img {
+	height: ;
+	width: ;
+	margin: auto;
+	float: left;
+	display: block;
+}
+.letra h1 {
+	height: ;
+	width: ;
+	float: right;
+}
+.picture2 img {
+	height: 300px;
+	width: 500px;
+	margin: auto;
+	float: left;
+	display: block;
+}
+.picture3 img {
+	height: 300px;
+	width: 500px;
+	float: right;
+	display: block;
+}
+.letra2 h3 {
+	float: left;
+}
+.letra3 h3 {
+	float: right;
+}
+.picture4 img {
+	float: center;
+	height: ;
+	width: ;
+	display: block;	
+}
+.letra4 h3 {
+	float: right;
+}
+.picture5 img {
+	float: center;
+	height: 200px;
+	width: 200px;
+	display: block;
+}

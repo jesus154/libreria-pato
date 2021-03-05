@@ -1,0 +1,34 @@
+body{
+	background: #6d2c7d;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+.picture img {
+	margin: auto;
+	display: block;
+	height: ;
+	width: ;
+	float: left;
+}
+.cruz h3 {
+	float: left;
+}
+.caz h1 {
+	float: right;
+}
+.picture2 img {
+	margin: auto;
+	display: block;
+	height: ;
+	width: ;
+	float: left;
+}
+.cruz2 h3 {
+	float: right;
+}
+.picture3 img {
+	margin: auto;
+	display: block;
+	height: 200px;
+	width: 200px;
+	float: right;
+}

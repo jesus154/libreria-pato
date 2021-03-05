@@ -1,0 +1,28 @@
+body {
+	background: #6d2c7d;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+.letra h1 {
+	float: right;
+}
+.picture img {
+	float: left;
+}
+.letra2 h2 {
+	float: center;
+	position: relative;
+}
+.picture2 img {
+	float: center;
+	position: center;
+	height: ;
+	width: ;
+	display: block;
+}
+.picture3 img {
+	margin: auto;
+	display: block;
+	height: 200px;
+	width: 200px;
+	float: right;
+}
